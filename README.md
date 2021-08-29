@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @ThatNoobYeetR
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me carson.cackler@icloud.com
-
-<!---
-ThatNoobYeetR/ThatNoobYeetR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thanks for checking out this project ive been working on! Most commands dont work because of weird errors that i cant seem to notice.. Anyways feel free to edit it and make it better!
