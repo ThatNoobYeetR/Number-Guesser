@@ -1,1 +1,4 @@
-Thanks for checking out this project ive been working on! Most commands dont work because of weird errors that i cant seem to notice.. Anyways feel free to edit it and make it better!
+Hello!
+
+This is a very simple and basic number guessing game.
+This is mostly for people to read the code and maybe learn something.
